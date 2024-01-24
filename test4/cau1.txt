@@ -1,21 +1,21 @@
-D?a v�o bi?u ?? quan h? nhu c?u mua s?m theo th�ng, vi?c l?a ch?n c�ng ngh? cho vi?c x�y d?ng website ??t h�ng v� mua s?m tr?c tuy?n c?n ph?i c�n nh?c ??n 
-m?t s? y?u t? quan tr?ng nh? t�nh linh ho?t, kh? n?ng m? r?ng, v� chi ph�. D??i ?�y l� ba l� do ?? h? tr? s? l?a ch?n c�ng ngh?:
+﻿Dựa vào biểu đồ quan hệ nhu cầu mua sắm theo tháng, việc lựa chọn công nghệ cho việc xây dựng website đặt hàng và mua sắm trực tuyến cần phải cân nhắc đến 
+một số yếu tố quan trọng như tính linh hoạt, khả năng mở rộng, và chi phí. Dưới đây là ba lý do để hỗ trợ sự lựa chọn công nghệ:
 
-T�nh Linh Ho?t v� Nhanh Ch�ng:
+Tính Linh Hoạt và Nhanh Chóng:
 
-C�ng ngh? ph?n m?m c� th? ???c ch?n n�n c� t�nh linh ho?t cao ?? d? d�ng ?i?u ch?nh v� th�ch ?ng theo s? bi?n ??ng c?a nhu c?u mua s?m. C�c framework nh? 
-React ho?c Angular c� th? ???c s? d?ng ?? x�y d?ng giao di?n ng??i d�ng ??ng, linh ho?t, v� d? b?o tr�.
-S? d?ng ki?n tr�c microservices gi�p t?ng c??ng kh? n?ng m? r?ng v� qu?n l� c�c t�nh n?ng ??c l?p nhau, gi?m thi?u ?nh h??ng khi c� th�m t�nh n?ng ho?c ?i?u
-ch?nh.
-Kh? N?ng M? R?ng v� Hi?u Su?t:
+Công nghệ phần mềm có thể được chọn nên có tính linh hoạt cao để dễ dàng điều chỉnh và thích ứng theo sự biến động của nhu cầu mua sắm. Các framework như 
+React hoặc Angular có thể được sử dụng để xây dựng giao diện người dùng động, linh hoạt, và dễ bảo trì.
+Sử dụng kiến trúc microservices giúp tăng cường khả năng mở rộng và quản lý các tính năng độc lập nhau, giảm thiểu ảnh hưởng khi có thêm tính năng hoặc điều
+chỉnh.
+Khả Năng Mở Rộng và Hiệu Suất:
 
-Ch?n c�ng ngh? c� kh? n?ng m? r?ng t?t ?? ??i m?t v?i s? t?ng tr??ng ??t ng?t trong l??ng truy c?p, ??c bi?t l� trong nh?ng th�ng c� s? ki?n quan tr?ng nh?
-Black Friday. C�c c�ng ngh? nh? Node.js ho?c Golang c� hi?u su?t cao v� kh? n?ng m? r?ng t?t.
-S? d?ng c�c d?ch v? ?�m m�y nh? AWS, Azure, ho?c Google Cloud ?? t?n d?ng t�nh linh ho?t v� kh? n?ng m? r?ng c?a h?, gi?m b?t g�nh n?ng v? h? t?ng v� qu?n 
-l� t�i nguy�n hi?u qu?.
-Chi Ph� Hi?u Qu? v� D? B?o Tr�:
+Chọn công nghệ có khả năng mở rộng tốt để đối mặt với sự tăng trưởng đột ngột trong lượng truy cập, đặc biệt là trong những tháng có sự kiện quan trọng như
+Black Friday. Các công nghệ như Node.js hoặc Golang có hiệu suất cao và khả năng mở rộng tốt.
+Sử dụng các dịch vụ đám mây như AWS, Azure, hoặc Google Cloud để tận dụng tính linh hoạt và khả năng mở rộng của họ, giảm bớt gánh nặng về hạ tầng và quản 
+lý tài nguyên hiệu quả.
+Chi Phí Hiệu Quả và Dễ Bảo Trì:
 
-Ch?n c�c c�ng ngh? m� ngu?n m? c� c?ng ??ng ph�t tri?n m?nh m? ?? gi?m chi ph� ph�t tri?n v� b?o tr�. Frameworks nh? Django ho?c Ruby on Rails c� th? l� l?a
-ch?n t?t v?i chi ph� ph�t tri?n th?p v� d? b?o tr�.
-T�ch h?p c�c c�ng c? qu?n l� m� ngu?n nh? Git v� k? thu?t CI/CD (Continuous Integration/Continuous Deployment) ?? ??m b?o s? ?n ??nh v� d? b?o tr� trong 
-qu� tr�nh ph�t tri?n v� tri?n khai.
+Chọn các công nghệ mã nguồn mở có cộng đồng phát triển mạnh mẽ để giảm chi phí phát triển và bảo trì. Frameworks như Django hoặc Ruby on Rails có thể là lựa
+chọn tốt với chi phí phát triển thấp và dễ bảo trì.
+Tích hợp các công cụ quản lý mã nguồn như Git và kỹ thuật CI/CD (Continuous Integration/Continuous Deployment) để đảm bảo sự ổn định và dễ bảo trì trong 
+quá trình phát triển và triển khai.
